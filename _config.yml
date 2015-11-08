@@ -1,0 +1,23 @@
+name: pscummings
+favicon: null
+layout_spectrum: 0.7408218609634787
+typography_spectrum: 0.21975925331935287
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.33978991000913084
+  lightness: 0.7546832398511469
+  saturation: 0.7874979665502906
+  rhythmicContrast: 0.7229923505801708
+purpose: []
